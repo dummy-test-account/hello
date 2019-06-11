@@ -9,3 +9,6 @@ def foo(a):
 def bar(a):
     return a+2
 
+# редактирование на Github
+def baz(a):
+    return a+3
