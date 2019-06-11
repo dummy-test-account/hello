@@ -4,3 +4,8 @@ def hello_test(name):
 # функция из ветки Master
 def foo(a):
     return a+1
+
+# функция из ветки test
+def bar(a):
+    return a+2
+
